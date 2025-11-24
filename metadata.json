@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AskLaw",
+  "description": "An AI-powered legal assistant providing plain-language explanations, options, and red flags for legal queries using Gemini models.",
+  "requestFramePermissions": []
+}
